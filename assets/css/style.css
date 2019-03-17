@@ -1,0 +1,63 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/bc/73/04/bc730490bc9a8933f945b91db0cc82b5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.instructions {
+    float: left;
+    width: 60%;
+}
+
+.gemImage{
+    height: 60px;
+    margin: 10px;
+}
+
+.computerRandom, .winsAndLosses {
+    float: left;
+    width: 15%;
+    height: 272px;
+    color: black;
+}
+
+img{
+    float: left;
+    border: solid 2px tomato;
+    margin: 10px;
+
+}
+
+.totalNumber {
+    float: left;
+    width: 15%;
+    height: 60px;
+    border: solid 2px tomato; 
+    background-color: white; 
+    height: 103px; 
+    color: black;
+}
+
+.crystals {
+    clear: both; 
+}
+
+div.header {
+    background-color: white;
+    width: 35%;
+}
+div.crystals {
+    background-color: white;
+    width: 27%;
+    float: left;
+}
+
+div{
+    background-color: white;
+    margin: 10px;
+    width: 25%;
+}
+div{
+    border: solid 2px tomato;
+    padding: 10px;
+}
