@@ -1,7 +1,5 @@
 # unit-4-game
-### Option One: CrystalsCollector Game (Recommended)
-
-![Crystal Collector](Images/1-CrystalCollector.jpg)
+Option One: CrystalsCollector Game (Recommended)
 
 1. [Watch the demo](https://youtu.be/yNI0l2FMeCk).
 
